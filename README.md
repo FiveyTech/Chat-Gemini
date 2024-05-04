@@ -20,7 +20,7 @@ Para instalar o Chat gemini, siga estas etapas:
 clone o repositorio.
 
 ```
-git clone --branch dev-master https://github.com/FiveyTech/Chat-Gemini.git
+git clone --branch main https://github.com/FiveyTech/Chat-Gemini.git
 ```
 
 Duplicar o arquivo "dbconfig/.env.example" e renomear para ".env", e adicionar suas informaçoes.<br>
