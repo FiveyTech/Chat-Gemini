@@ -1,0 +1,8 @@
+{
+    "require": {
+        "erusev/parsedown": "^1.7",
+        "vlucas/phpdotenv": "^5.0",
+        "predis/predis": "2.2.2",
+        "google/apiclient": "^2.15.3"
+    }
+}
