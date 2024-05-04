@@ -1,5 +1,7 @@
 ## CHAT GEMINI
 
+Chat de exemplo: https://chat.codetech.click
+
 ## Pré-requisitos
 
 O projeiro usa:
